@@ -141,9 +141,9 @@ Il a renforcé les compétences en administration Windows Server, sécurité ré
 
 ## 9. Auteur
 
-Nom : À compléter  
-Formation : À compléter  
-Année : À compléter  
+Nom : Dzondo Ruddy  
+Formation : Ingenieur système et réseau 
+Année : 2024-2025  
 
 ---
 
